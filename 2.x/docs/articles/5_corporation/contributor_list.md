@@ -46,6 +46,8 @@
 除了代码贡献与工具贡献，还有一类贡献者不吝于在各种渠道分享基于FISCO BCOS的开发经验与技术/产业观点，赋予了FISCO BCOS社区更强劲、长久的生命力和影响力，鼓励了更多人参与到生态共建中。
 
 布道贡献包括但不限于在各类活动中分享FISCO BCOS相关技术、撰写文章或编制视频解析FISCO BCOS相关技术等。布道渠道不限，如果贡献名单有所遗漏，欢迎联系小助手告知我们。
+![image](https://user-images.githubusercontent.com/93572056/154500145-2223cbb8-ef14-4423-b051-3689f38762ce.png)
+![image](https://user-images.githubusercontent.com/93572056/154500230-f11da9d8-fc14-4c15-8289-09dc02ac1c2d.png)
 
 
 ## 贡献数据来源说明
