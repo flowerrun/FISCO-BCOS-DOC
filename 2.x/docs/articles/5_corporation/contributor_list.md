@@ -1,4 +1,4 @@
-# 社区贡献者榜单
+# 2021年度 | FISCO BCOS贡献者榜单 
 
 作者：小助手
 
@@ -32,11 +32,21 @@
 ## 应用参考实现/方案贡献
 基于区块链中间件平台WeBASE的应用管理功能，社区伙伴踊跃将基于FISCO BCOS研发的区块链应用，以开源应用管理案例的形式接入到WeBASE中，贡献具体行业场景的应用开源实现参考，包括应用前后端和业务合约全部代码，以及完善的开源使用文档。
 
+![image](https://user-images.githubusercontent.com/93572056/154499214-84b4ffa5-0752-41ca-b2ca-724c316c0d9c.png)
+
+本年度，在中国区块链开发大赛、BSN开发者大赛等众多区块链权威赛事中，涌现出不少基于FISCO BCOS的优秀参赛方案。本着回馈社区的开源精神，参赛伙伴将这些方案贡献出来，为社区用户提供区块链学习的参考与借鉴。
+
+![image](https://user-images.githubusercontent.com/93572056/154499432-31e9564e-6dfd-491f-91a0-fb170295dedf.png)
+![image](https://user-images.githubusercontent.com/93572056/154499492-cd8294a4-6210-4d3b-b8ee-61aeaec4553e.png)
+![image](https://user-images.githubusercontent.com/93572056/154499535-b0519bba-0995-48f3-b5db-0b3a0d45a6a1.png)
+![image](https://user-images.githubusercontent.com/93572056/154499659-e691a43d-8035-4e44-9310-0d42bf89848c.png)
+
 
 ## 布道贡献
 除了代码贡献与工具贡献，还有一类贡献者不吝于在各种渠道分享基于FISCO BCOS的开发经验与技术/产业观点，赋予了FISCO BCOS社区更强劲、长久的生命力和影响力，鼓励了更多人参与到生态共建中。
 
 布道贡献包括但不限于在各类活动中分享FISCO BCOS相关技术、撰写文章或编制视频解析FISCO BCOS相关技术等。布道渠道不限，如果贡献名单有所遗漏，欢迎联系小助手告知我们。
+
 
 ## 贡献数据来源说明
 本期贡献者名单主要从GitHub中 FISCO BCOS代码仓库，以及FISCO BCOS Toolbox、WeBankBlockchain等社区生态项目的代码仓库中收集，统计时间周期为2021年1月1日-2021年12月30日，如有遗漏、改进建议，可联系小助手【fiscobcosfan】反馈。
