@@ -25,6 +25,7 @@
 
 ## 工具贡献
 在FISCO BCOS基础之上，社区开发者不断探索，开发出多种实用的组件、工具，便捷开发流程的同时也拓展了平台功能。目前，这些工具已全部开源并贡献给社区开发者使用，极大降低了应用开发的门槛和成本。
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/abb7a5df708a4dd9af6b3148d49500a7.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARklTQ09fQkNPUw==,size_20,color_FFFFFF,t_70,g_se,x_16)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2e924c091ca2471da17e9f560110b54f.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARklTQ09fQkNPUw==,size_20,color_FFFFFF,t_70,g_se,x_16)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/658a0ef933a444329508f51e9c62a9d0.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARklTQ09fQkNPUw==,size_20,color_FFFFFF,t_70,g_se,x_16)
@@ -33,10 +34,12 @@
 
 ## 应用参考实现/方案贡献
 基于区块链中间件平台WeBASE的应用管理功能，社区伙伴踊跃将基于FISCO BCOS研发的区块链应用，以开源应用管理案例的形式接入到WeBASE中，贡献具体行业场景的应用开源实现参考，包括应用前后端和业务合约全部代码，以及完善的开源使用文档。
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/37cc75100a5b4966b5312dc4cc8a586b.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARklTQ09fQkNPUw==,size_20,color_FFFFFF,t_70,g_se,x_16)
 
 
 本年度，在中国区块链开发大赛、BSN开发者大赛等众多区块链权威赛事中，涌现出不少基于FISCO BCOS的优秀参赛方案。本着回馈社区的开源精神，参赛伙伴将这些方案贡献出来，为社区用户提供区块链学习的参考与借鉴。
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/1e3c12860ae5429fb6311204fc5c57a6.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARklTQ09fQkNPUw==,size_20,color_FFFFFF,t_70,g_se,x_16)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/e84b014e19f54d23a8effd101d316f25.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARklTQ09fQkNPUw==,size_20,color_FFFFFF,t_70,g_se,x_16)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/efa4139528674a93b3b13e95a4364cd3.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARklTQ09fQkNPUw==,size_20,color_FFFFFF,t_70,g_se,x_16)
@@ -45,6 +48,7 @@
 ## 布道贡献
 
 除了代码贡献与工具贡献，还有一类贡献者不吝于在各种渠道分享基于FISCO BCOS的开发经验与技术/产业观点，赋予了FISCO BCOS社区更强劲、长久的生命力和影响力，鼓励了更多人参与到生态共建中。
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/7659d1626104460ab5e2b58dcf006ffb.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARklTQ09fQkNPUw==,size_20,color_FFFFFF,t_70,g_se,x_16)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/c17c2d0ef89b4350808d89d9f339fe55.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARklTQ09fQkNPUw==,size_20,color_FFFFFF,t_70,g_se,x_16)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/3b5b2dc0844d4da993cc404ad65061a7.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARklTQ09fQkNPUw==,size_20,color_FFFFFF,t_70,g_se,x_16)
@@ -54,6 +58,7 @@
 
 ## 贡献数据来源说明
 本期贡献者名单主要从GitHub中 FISCO BCOS代码仓库，以及FISCO BCOS Toolbox、WeBankBlockchain等社区生态项目的代码仓库中收集，统计时间周期为2021年1月1日-2021年12月30日，如有遗漏、改进建议，可联系小助手【fiscobcosfan】反馈。
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/36063a1f8c44498e8969d3cf296066f9.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARklTQ09fQkNPUw==,size_20,color_FFFFFF,t_70,g_se,x_16)
 
 扫码查看季度贡献者榜单
