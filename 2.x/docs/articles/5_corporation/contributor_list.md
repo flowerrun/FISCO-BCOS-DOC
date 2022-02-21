@@ -216,7 +216,7 @@ Maskview数字版权保护平台	|	西安电子科技大学	|	初金朝、任飞
 
 布道贡献包括但不限于在各类活动中分享FISCO BCOS相关技术、撰写文章或编制视频解析FISCO BCOS相关技术等。布道渠道不限，如果贡献名单有所遗漏，欢迎联系小助手告知我们。
 **姓名** |**所在机构** |
-| - |  -|
+| - | - |
 白兴强	|	微众银行
 蔡伟鑫	|	中钞区块链技术研究院
 蔡文欢	|	深圳市网安计算机安全检测技术有限公司
@@ -294,6 +294,7 @@ Maskview数字版权保护平台	|	西安电子科技大学	|	初金朝、任飞
 本期贡献者名单主要从GitHub中 FISCO BCOS代码仓库，以及FISCO BCOS Toolbox、WeBankBlockchain等社区生态项目的代码仓库中收集，统计时间周期为2021年1月1日-2021年12月30日，如有遗漏、改进建议，可联系小助手【fiscobcosfan】反馈。
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/36063a1f8c44498e8969d3cf296066f9.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBARklTQ09fQkNPUw==,size_20,color_FFFFFF,t_70,g_se,x_16)
+
 扫码查看季度贡献者榜单
 
 ## 推荐阅读：
